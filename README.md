@@ -25,3 +25,8 @@ The goal of this project is to build a simple RNN model using PyTorch to perform
 4. **Evaluation**:
    - The model’s performance can be evaluated on the small dataset, but overfitting is expected due to the limited size of the data.
 
+## Notes
+
+- Overfitting: Due to the small size of the dummy dataset, the model is likely to overfit and may not generalize well to unseen data. This project is meant for practice and learning.
+- Dummy Data: The dataset used in this project is minimal and artificial, and the performance metrics are not representative of real-world scenarios.
+- Practice Project: This project serves as a basic introduction to working with RNNs in PyTorch and is not intended for real-world applications.
